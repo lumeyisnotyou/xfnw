@@ -1,3 +1,5 @@
+<img src='xfnw.png' width='128' style='float:right;max-width:128px'>
+
 # hi im xfnw
 
 - he/him 
