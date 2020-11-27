@@ -1,4 +1,4 @@
-<img src='xfnw.png' width='128' style='float:right;max-width:128px'>
+<img src='xfnw.png' width='128' align='right'>
 
 # hi im xfnw
 
