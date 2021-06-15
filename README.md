@@ -4,7 +4,7 @@
 
 - he/him 
 - floofy fox uwu 🦊
-- btw i use arch, alpine, and debian
+- btw i use arch and nixos
 
 check out my [🌍](https://xfnw.ttm.sh) or maybe look at some [🐈](https://xfnw.tilde.institute/sandcats).
 
